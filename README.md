@@ -3,7 +3,7 @@ because typing [`console.log`](https://developer.mozilla.org/en-US/docs/Web/API/
 
 *(see [gist](https://gist.github.com/karlpatrickespiritu/ade7ad00ba00d35cc2bc))*
 
-l()
+Function
 ------
 ```JavaScript
 function l() {
