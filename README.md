@@ -1,16 +1,14 @@
 # l
-because typing `console.log` is too fucking long!
+because typing `console.log` is too fucking long! `l` is a handy shorthand function for `console.log`.
+
 
 ```JavaScript
-/**
- * `l` is a handy shorthand function for `console.log`
- */
 function l() {
     if (arguments.length) console.log.apply(console, arguments)
 }
 ```
 
-let's try it:
+tests
 ```JavaScript
 l(window); // Window {external: Object, chrome: Object…}
 
