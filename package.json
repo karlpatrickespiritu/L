@@ -1,0 +1,27 @@
+{
+  "name": "l",
+  "version": "1.0.0",
+  "description": "l is a handy shorthand function for console.log",
+  "main": "l.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlpatrickespiritu/l.git"
+  },
+  "keywords": [
+    "console.log",
+    "console",
+    "javascript",
+    "console",
+    "shorthand",
+    "javascript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karlpatrickespiritu/l/issues"
+  },
+  "homepage": "https://github.com/karlpatrickespiritu/l#readme"
+}
