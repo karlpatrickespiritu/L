@@ -3,15 +3,7 @@ because typing [`console.log`](https://developer.mozilla.org/en-US/docs/Web/API/
 
 *(see [gist](https://gist.github.com/karlpatrickespiritu/ade7ad00ba00d35cc2bc))*
 
-Function
-------
-```JavaScript
-function l() {
-    if (arguments.length) console.log.apply(console, arguments)
-}
-```
-
-Tests
+Sample Usage
 ------
 ```JavaScript
 l(window); // Window {external: Object, chrome: Object…}
